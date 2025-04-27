@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\csh_acc\bin\Debug\csh_acc.exe.config
+C:\Users\user\source\repos\csh_acc\bin\Debug\csh_acc.exe
+C:\Users\user\source\repos\csh_acc\bin\Debug\csh_acc.pdb
+C:\Users\user\source\repos\csh_acc\obj\Debug\csh_acc.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\csh_acc\obj\Debug\csh_acc.Form1.resources
+C:\Users\user\source\repos\csh_acc\obj\Debug\csh_acc.Properties.Resources.resources
+C:\Users\user\source\repos\csh_acc\obj\Debug\csh_acc.csproj.GenerateResource.cache
+C:\Users\user\source\repos\csh_acc\obj\Debug\csh_acc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\csh_acc\obj\Debug\csh_acc.exe
+C:\Users\user\source\repos\csh_acc\obj\Debug\csh_acc.pdb
